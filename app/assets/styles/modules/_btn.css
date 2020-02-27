@@ -8,6 +8,7 @@
   &--orange {
     background-color: $mainOrange;
   }
+
   &--large {
     padding: 1.1rem 1.9rem;
     @mixin atSmall {
