@@ -10,13 +10,9 @@
     max-width: 976px;
   }
 
-  .wrapper {
-    padding-left: 0;
-    padding-right: 0;
-  }
-
   &--b-margin {
     margin-bottom: 1rem;
+
     @mixin atSmall {
       margin-bottom: 4rem;
     }
